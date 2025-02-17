@@ -1,7 +1,7 @@
 Spaceship Titanic Machine Learning Project
 
 - 프로젝트 개요
- - 이 프로젝트는 "Spaceship Titanic" 데이터셋을 사용하여 승객의 생존 여부를 예측하는 머신러닝 모델을 구축하는 것입니다. 
+  - 이 프로젝트는 "Spaceship Titanic" 데이터셋을 사용하여 승객의 생존 여부를 예측하는 머신러닝 모델을 구축하는 것입니다. 
 데이터 전처리, 탐색적 데이터 분석(EDA), 여러 머신러닝 모델 학습 및 하이퍼파라미터 튜닝을 포함합니다.
 
 

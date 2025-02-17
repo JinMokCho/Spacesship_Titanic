@@ -27,11 +27,12 @@ Spaceship Titanic Machine Learning Project
 
 
 - 결과
-  - LightGBM 모델이 가장 높은 정확도(0.799)를 기록하였으며, 최적의 하이퍼파라미터는 다음과 같습니다:
-learning_rate: 0.05
-max_depth: 5
-n_estimators: 175
+  - LightGBM 모델이 가장 높은 정확도(0.799)를 기록하였습니다.
+  - 최적의 하이퍼파라미터:
+    learning_rate: 0.05
+    max_depth: 5
+    n_estimators: 175
 
 
 - 제출
-캐글 최초 제출 순위: 782위
+  - 캐글 최초 제출 순위: 782위
